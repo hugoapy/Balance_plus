@@ -13,7 +13,7 @@ For tax, commercial, and Google Play policy compliance purposes, the Developer o
 2. Description of the Service and Local Nature
 100% Local Application: Balance+ is a personal financial management tool designed to operate exclusively and locally on the user's device.
 
-Data Privacy: We do not operate proprietary servers or collect personal or financial information. All records, transactions, accounts, and settings are stored privately and securely solely in your device's memory, as detailed in our [Privacy Policy].
+Data Privacy: We do not operate proprietary servers or collect personal or financial information. All records, transactions, accounts, and settings are stored privately and securely solely in your device's memory, as detailed in our [Privacy Policy](https://github.com/hugoapy/Balance_plus/blob/main/PRIVACY_POLICY.md).
 
 3. One-Time Purchase Model and PRO Features
 Free and PRO Version: The Application offers a set of basic features for free, as well as a set of advanced features ("PRO Features") that can be unlocked via an In-App Purchase.
